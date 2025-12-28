@@ -1,0 +1,5 @@
+{
+  "name": "Smart CSV Categorizer",
+  "description": "An intelligent tool that analyzes CSV data, specifically targeting a 'foo' column to automatically categorize text entries using the Gemini AI. Includes data visualization and structured analysis.",
+  "requestFramePermissions": []
+}
